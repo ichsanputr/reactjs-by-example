@@ -1,10 +1,10 @@
 ---
 title: useMemo
 layout: home
-nav_order: 4
+nav_order: 6
 ---
 {: .fw-500 }
-# Style
+# useMemo()
 
 `useMemo()` will be rerunning if any changes happen on state which we pass in depedency array on second parameter.
 
